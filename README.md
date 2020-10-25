@@ -4,7 +4,7 @@
 This is a utility program that can label object bounding boxes with ID and name in videos and images. It also can be used to crop videos, sample traninig images in a video, and mosaic image region. Anyone can use it for non-commercial purposes.
 
 ### Download Executable
-* [DarkLabel2.3.zip](https://github.com/darkpgmr/DarkLabel/releases/tag/darklabel2.3-release)
+* [DarkLabel2.3.zip](https://github.com/darkpgmr/DarkLabel/releases/download/darklabel2.3-release/DarkLabel2.3.zip)
 (currently, only binary executable can be downloaded)
 
 ![My image](https://github.com/darkpgmr/DarkLabel/blob/master/image/darklabel_gui.png)
@@ -21,7 +21,7 @@ This is a utility program that can label object bounding boxes with ID and name 
 * Windows only (32/64 bits)
 
 ### Program Configuration
-The program can be configured by modifying [darklabel.yml](https://github.com/darkpgmr/DarkLabel/blob/master/darklabel.yml) attached in the zipped archive.
+The program can be configured by modifying [darklabel.yml](https://github.com/deepguider/DarkLabel/blob/master/darklabel.yml) attached in the zipped archive.
 * define and modify data formats
 * change hotkeys (frame navigation, action keys)
 * change video/image export setting (video codec, frame rate, image format)
