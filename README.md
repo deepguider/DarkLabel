@@ -31,7 +31,7 @@ The program can be configured by modifying [darklabel.yml](https://github.com/de
 * adjust GUI drawing (box width, box color, ...)
 
 
-### Basic Instruction (How to Use)
+### Basic Instruction
 
 	Arrow/PgUp/PgDn/Home/End: navigate image frames	
 	
